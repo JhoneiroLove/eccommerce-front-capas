@@ -1,4 +1,4 @@
-import { apiClient } from '../api/apiClient';
+import { apiClient } from '../api/springApiClient.ts';
 import type { Product, ApiResponse, PaginatedResponse, SearchParams } from '../../types';
 
 export class ProductRepository {
