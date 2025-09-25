@@ -133,11 +133,11 @@ La aplicación estará disponible en: `http://localhost:5173` (Vite) o `http://l
 
 ### Para Testing Completo
 
-| Usuario | Email/Username | Password | Rol | Descripción |
+| Usuario | Username | Password | Rol | Descripción |
 |---------|---------------|----------|-----|-------------|
 | **Admin** | `admin` | `admin123` | ADMIN | Control total del sistema |
-| **Customer** | `ana.rodriguez@email.com` | `password123` | CUSTOMER | Vista de cliente/comprador |
-| **Seller** | `carlos.seller@email.com` | `password123` | SELLER | Dashboard de vendedor |
+| **Customer** | `ana.rodriguez` | `password123` | CUSTOMER | Vista de cliente/comprador |
+| **Seller** | `carlos.seller` | `password123` | SELLER | Dashboard de vendedor |
 
 ## Integración con Backend
 
